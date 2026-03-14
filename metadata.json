@@ -1,0 +1,8 @@
+{
+  "name": "Thar ROXX Price Configurator",
+  "description": "A premium, interactive price configurator for the Mahindra Thar ROXX with Kerala road tax calculations and AI-powered visual features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
